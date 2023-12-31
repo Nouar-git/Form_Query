@@ -9,4 +9,4 @@ When users want to submit the form, it is validated so that the user has entered
 - Clone the repository 
 git@github.com:Nouar-git/Form_Query.git.
 
--Dubble click on index.htm file.
+-Dubble click on index.html file.
